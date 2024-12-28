@@ -1,24 +1,24 @@
-## 👨‍💻 About Me
+## 👨‍💻 Обо мне
 
-Hey! I'm **Alex**, a passionate C# developer with a knack for building clean, efficient, and scalable applications. From **console applications** to sophisticated **desktop software** using **Windows Forms** and **WPF**, I love creating solutions that make people's lives easier.
+Привет! Я **Алекс**, страстный разработчик на C#, с увлечением создающий чистые, эффективные и масштабируемые приложения. От **консольных приложений** до сложного **десктопного ПО** с использованием **Windows Forms** и **WPF** — я люблю разрабатывать решения, которые облегчают жизнь пользователей.
 
-Here's a snapshot of what I do:
-- 💬 Developed a **chat messenger** with real-time communication capabilities.
-- ⚙️ Built **business process automation systems** to streamline workflows.
-- 🔌 Designed and integrated **APIs** for seamless data management and interaction between systems.
+Вот краткое описание того, чем я занимаюсь:
+- 💬 Разработал **чат-мессенджер** с поддержкой реального времени.
+- ⚙️ Создавал **системы автоматизации бизнес-процессов** для улучшения рабочих процессов.
+- 🔌 Проектировал и интегрировал **API** для бесшовного управления данными и взаимодействия между системами.
 
-### 💡 Tech Stack:
-- **Languages**: C#, SQL
-- **Frameworks**: .NET Core, ASP.NET, WPF, Windows Forms
-- **Databases**: MS SQL, Entity Framework
-- **Tools**: Git, Visual Studio, Postman
+### 💡 Стек технологий:
+- **Языки**: C#, SQL
+- **Фреймворки**: .NET Core, ASP.NET, WPF, Windows Forms
+- **Базы данных**: MS SQL, Entity Framework
+- **Инструменты**: Git, Visual Studio, Postman
 
-### 🌱 Currently learning:
-- Deep diving into **cloud solutions** and **microservices**.
-- Exploring **AI integration** with C# and .NET.
+### 🌱 В данный момент учусь:
+- Глубокое погружение в **облачные решения** и **микросервисы**.
+- Изучаю **интеграцию ИИ** с C# и .NET.
 
 ---
 
-I thrive on challenges and constantly look for ways to improve my skills and deliver top-notch software. I'm always open to collaborating on exciting projects or solving complex problems.
+Мне нравится решать сложные задачи и постоянно искать способы улучшить свои навыки и создавать качественное ПО. Я всегда открыт для сотрудничества в увлекательных проектах и решении сложных проблем.
 
-Feel free to check out my repos below and reach out if you have any questions or would like to work together! 🚀
+Не стесняйтесь заглянуть в мои репозитории и обращаться, если у вас есть вопросы или вы хотите поработать вместе! 🚀
